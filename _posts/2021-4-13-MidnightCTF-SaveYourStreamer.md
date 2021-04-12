@@ -3,8 +3,8 @@ layout: post
 title: Midnight Flag CTF - Save Your Streamer [OSINT 200]
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Voici mon WriteUp pour le challenge "Save Your Streamer" de la catégorie "OSINT" du Midnight Flag CTF. J'ai beaucoup aimé ce challenge et son cheminement donc j'ai décidé d'en faire mon write-up.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/sys1.png)
+![_config.yml]({{ site.baseurl }}/images/photo.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
