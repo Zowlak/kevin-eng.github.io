@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
-Some information about you!
+### Ce site
 
-### More Information
+J'utiliserai ce site pour poster tous mes write-ups des différents CTF auxquels j'ai participé.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Me contacter
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[zowlak@protonmail.com](mailto:email@domain.com)
+[@xStuxnet](https://twitter.com/xStuxnet)
