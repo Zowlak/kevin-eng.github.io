@@ -13,4 +13,4 @@ Today I will talk about my motivations for my training in Network & Telecoms at 
 I decided to choose this training because the IUT of Lannion offered the option "Cybersecurity" from the second year and the program of the year attracted me.  
 Indeed, since I was already interested on my side in everything that is network, cybersecurity, programming, etc., the choice of this training seemed obvious to me!  
 So here I am!  
-In this training, we learn to understand and analyze signals, to set up and troubleshoot a network, to use a machine under Linux, to program in Python and many other things!  
+In this training, we learn to understand and analyze signals, to set up and troubleshoot a network, to use a machine under Linux, to program in Python and many other things!    
