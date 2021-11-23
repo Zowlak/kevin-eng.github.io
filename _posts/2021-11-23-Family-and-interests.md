@@ -5,8 +5,14 @@ title: My family, my interests.
 
 There is a small article where i talk about my family and my different interests and hobbies !
 
-![_config.yml]({{ site.baseurl }}/images/sys1.png)
-![_config.yml]({{ site.baseurl }}/images/photo.jpg)
+![_config.yml]({{ site.baseurl }}/images/family.png)
 
-Hello guys and girls !
+#### Hello guys and girls !
 I'm Kévin, a french 18 years old student and I live with my mother at Lannion !
+
+![_config.yml]({{ site.baseurl }}/images/hobbies.png)
+
+#### Now i will talk about my interests and different hobbies !
+
+In everyday life, I'm more a homebody.  
+Indeed, I like to stay at home to practice my various hobbies. I find friends to play video games with them, I find others to participate in cybersecurity competitions (CTF), I participate in projects that interest me, I watch series. I'm also very interested in motorcycles, whether it's the motorcycle world championships or just riding.
