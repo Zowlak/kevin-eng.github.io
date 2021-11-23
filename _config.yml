@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Zowlak
+name: Kévin SILLIAU
 
 # Short bio or description (displayed in the header)
-description: Write-Ups of Zowlak for CTF
+description: Kévin - English BLog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.discordapp.net/attachments/656599176196653097/831284916016119808/image0_1.jpg
+avatar: https://images-ext-2.discordapp.net/external/WvjohYXpxi0H1xW6-1tdXIVDtT5S_HZpVAfpkwLLO2o/https/image.prntscr.com/image/mREOTHPWS8G_q1Mjkm6zWg.png
 
 #
 # Flags below are optional
@@ -18,11 +18,11 @@ avatar: https://media.discordapp.net/attachments/656599176196653097/831284916016
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: zowlak@protonmail.com
+  email: kevin.silliau2003@gmail.com
   facebook:
   flickr:
   github: zowlak
-  instagram: 
+  instagram: kevin.zlk
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://zowlak.github.io
+url: https://zowlak.xyz
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
