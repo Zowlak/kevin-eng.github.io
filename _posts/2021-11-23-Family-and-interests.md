@@ -4,7 +4,7 @@ title: My family, my interests.
 ---
 
 There is a small article where i talk about my family and my different interests and hobbies !  
-Discover my town and my regions, our local specialities and what you can do here !
+Discover what passionate me, what am I doing during my free-time and my little sweety family!
 
 ![_config.yml]({{ site.baseurl }}/images/family.png)
 
